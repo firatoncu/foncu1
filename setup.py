@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'foncu1',         # How you named your package folder (MyLib)
   packages = ['/home/foncu/Desktop/foncu1'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.5',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Global Library Testing by Foncu',   # Give a short description about your library
   author = 'firat oncu',                   # Type in your name
